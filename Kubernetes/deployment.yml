@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: netflix-app
-        image: siri/netflix:latest
+        image: anandh2308/streamapp:23.08
         ports:
         - containerPort: 80
